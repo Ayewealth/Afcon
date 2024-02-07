@@ -114,9 +114,12 @@ nav {
 }
 
 .content_overlay button {
-  padding: 0.6rem;
-  font-size: 19px;
-  font-weight: 500;
+  padding: 0.5rem 1rem;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  background-color: #000;
+  color: #fff;
 }
 
 .content_overlay {
