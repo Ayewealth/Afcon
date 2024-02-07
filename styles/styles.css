@@ -37,8 +37,9 @@ nav {
   gap: 15px;
   width: 100%;
 }
-.logo p {
+.logo a {
   font-weight: 600;
+  color: #000;
 }
 
 .nav__links {
@@ -49,6 +50,9 @@ nav {
   font-weight: 600;
   font-size: 14px;
   cursor: pointer;
+}
+.nav__links li a {
+  color: #000;
 }
 .icons {
   display: flex;
